@@ -1,4 +1,4 @@
-This code was written by me for the USC Advanced Game Project, EMPATH.
+This code was written by me for the USC Advanced Game Project, EMPATH, a motion-controlled martial-arts / spellcasting game developed in Unreal Engine 4.
 
 This code will NOT work as is, due to the project requiring plugins that I do not have the right to distribute, namely, the VR Expansion Plugin, and Wwise.
 
